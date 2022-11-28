@@ -1,4 +1,8 @@
+def hello_wrold(city):
+    print(f'Hello World From {city}')
+
+
 def main():
-    print("Hello World!")
+    hello_wrold('NYC')
 
 main()
